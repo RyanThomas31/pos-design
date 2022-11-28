@@ -1,0 +1,34 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: 'Calibri',sans-serif;
+    font-weight: normal;
+    border: 1px solid black;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+.product {
+    display: flex;
+}
+
+.product > p {
+    position: relative;
+    top: 18px;
+    left: -93px;
+}
+
+.product > h4 {
+    position: relative;
+    bottom: 8px;
+}
