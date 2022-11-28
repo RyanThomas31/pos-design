@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Gaming chair",
+        "price": 3000,
+        "colors": [
+            "Red",
+            "Blue",
+            "Black",
+            "Pink"
+        ],
+        "sizes": [
+            "Small",
+            "Medium",
+            "Large"
+        ],
+        "model": "Couch Potato 340x",
+        "brand": "Ryan's Chairs",
+        "image": "./images/mini-gaming-chair-02.jpg"
+    },
+    {
+        "name": "Electric Guitar",
+        "price": 10000,
+        "colors": [
+            "Red",
+            "Blue",
+            "Black",
+            "Pink"
+        ],
+        "sizes": [
+            "Small",
+            "Medium",
+            "Large"
+        ],
+        "model": "RockerLocker3000",
+        "brand": "Ryan's Guitar's",
+        "image": "./images/hqdefault.jpg"
+    }
+]

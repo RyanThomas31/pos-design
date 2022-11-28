@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Electric Guitar",
+        "price": 10000,
+        "color": "pink",
+        "size": "Large",
+        "model": "RockerLocker3000",
+        "brand": "Ryan's Guitar's",
+        "image": "./images/hqdefault.jpg"
+    }
+]
