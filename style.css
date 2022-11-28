@@ -10,12 +10,19 @@ body {
     padding: 0;
 }
 
+.container {
+    height: 99vh;
+}
+
 h1 {
     text-align: center;
 }
 
 table {
+    top: 100px;
+    bottom: 0;
     width: 100%;
+    height: 88%;
 }
 
 .product {
